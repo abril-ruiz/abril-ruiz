@@ -1,4 +1,4 @@
-##👋 Hola, soy Abril
+## 👋 Hola, soy Abril
 
  Estudiante de la Tecnicatura Universitaria en Programación (UTN FRP) enfocada en desarrollo frontend, con conocimientos también en lógica y desarrollo del lado del backend.
 Me gusta crear interfaces funcionales, claras y con buena experiencia de usuario, combinando creatividad con resolución de problemas.
@@ -21,4 +21,5 @@ Me interesa crecer profesionalmente en el área de desarrollo y participar en pr
 - [Email](mailto:abrilvalentinaruiz516@gmail.com)
 - [LinkedIn](linkedin.com/in/abril-ruiz)
 - Paraná, Entre Rios
+
 ⭐ _Mi objetivo es incorporarme a proyectos de desarrollo de software donde pueda seguir aprendiendo, ganar experiencia real y aportar soluciones._
