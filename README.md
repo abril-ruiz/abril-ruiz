@@ -10,16 +10,18 @@ Me gusta crear interfaces funcionales, claras y con buena experiencia de usuario
 
 ## Sobre mí
 Soy una persona: 
-Constante
-Creativa para pensar soluciones diferentes
-Persistente cuando algo me cuesta
-Enfocada en seguir mejorando día a día
+- Constante
+- Creativa para pensar soluciones diferentes
+- Persistente cuando algo me cuesta
+- Enfocada en seguir mejorando día a día
 
 Me interesa crecer profesionalmente en el área de desarrollo y participar en proyectos donde pueda seguir aprendiendo y aportando valor.
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abril-ruiz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
 ## Contacto
-- [Email](mailto:abrilvalentinaruiz516@gmail.com)
-- [LinkedIn](linkedin.com/in/abril-ruiz)
+- [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abrilvalentinaruiz516@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abril-ruiz)
 - Paraná, Entre Rios
 
 ⭐ _Mi objetivo es incorporarme a proyectos de desarrollo de software donde pueda seguir aprendiendo, ganar experiencia real y aportar soluciones._
